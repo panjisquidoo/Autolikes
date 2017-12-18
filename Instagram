@@ -1,8 +1,8 @@
 <?php
 set_time_limit(0);
 ignore_user_abort(1);
-$usernameig = "njul99"; //Ganti ... Dengan Username ig mu
-$passwordig = "recafe99"; //Ganti ... Dengan Password ig mu
+$usernameig = "irvandyedward"; //Ganti ... Dengan Username ig mu
+$passwordig = "recafe12"; //Ganti ... Dengan Password ig mu
     function proccess($ighost, $useragent, $url, $cookie = 0, $data = 0, $httpheader = array(), $proxy = 0){
     $url = $ighost ? 'https://i.instagram.com/api/v1/' . $url : $url;
     $ch = curl_init($url);
