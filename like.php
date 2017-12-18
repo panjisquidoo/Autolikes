@@ -1,4 +1,4 @@
- <!DOCTYPE HTML>
+ <?php
     <html>
     <head>
     <script type="text/javascript">
